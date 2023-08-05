@@ -1,8 +1,8 @@
 # MATCHIE, A Card Matching Game built with python and pygame.
 
-![screenshot](./screenshots/Screenshot1.png)
-![screenshot](./screenshots/Screenshot2.png)
-![screenshot](./screenshots/Screenshot3.png)
+![screenshot](./screenshots/screenshot1.png)
+![screenshot](./screenshots/screenshot2.png)
+![screenshot](./screenshots/screenshot3.png)
 
 ---
 
